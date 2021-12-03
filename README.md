@@ -325,9 +325,8 @@ Use what you learned this week in your project!
 ### Notebook
 1. Create a markdown heading and explanation for each question in the probability_hw.docx file under week 9.
 2. Put the code answer for each question under the markdown heading.
-3. Explain The Monty Hall problem in your notebook in markdown in under 250 words.
-4. Embed a screenshot into your jupyter notebook showing you completed DataCamp's Intro to Stats 
-5. Upload your completed notebook to github and submit the link to Canvas.
+3. Embed a screenshot into your jupyter notebook showing you completed DataCamp's Intro to Stats 
+4. Upload your completed notebook to github and submit the link to Canvas.
 
 ### Optional Reading
 - The [Khan Academy: Statistics & Probability](https://www.khanacademy.org/math/statistics-probability) course is a great resource to get another video on any concepts that are challenging. Seek out what you need more help on, and your TAs are here to help. 
@@ -370,6 +369,7 @@ Use what you learned this week in your project!
 ### Readings/Videos/DataCamp
 1. [Time Series Analysis](https://app.datacamp.com/learn/courses/time-series-analysis-in-python) - Complete 1-4
 2. [Fourier Analysis](https://learn.adafruit.com/fft-fun-with-fourier-transforms/background) - Reread this to make sure you understand Fourier transform fundamentally
+3. [SARIMA in Python](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)
 
 ### Notebook
 1. Create a markdown heading and explanation for each question in the time_series_hw.docx file under week 10.
@@ -394,7 +394,8 @@ Use what you learned this week in your project!
 ### Readings/Videos/DataCamp
 1. [Machine learning for business](https://learn.datacamp.com/courses/machine-learning-for-business) Complete 1-4
 2. [Python Data Science Toolbox Part 1](https://learn.datacamp.com/courses/python-data-science-toolbox-part-1) Complete 1-3
-3. https://datatofish.com/correlation-matrix-pandas/ Correlation matrix
+3. [Preprocessing for Machine Learning](https://learn.datacamp.com/courses/preprocessing-for-machine-learning-in-python) Complete 1
+4. https://datatofish.com/correlation-matrix-pandas/ Correlation matrix
 
 ### Notebook
 1. Create a markdown heading and explanation for each question in the intro_to_ml.docx file under week 12.
@@ -407,6 +408,25 @@ Read about how lambda works https://realpython.com/python-lambda/
 More review of linear regression https://www.w3schools.com/python/python_ml_linear_regression.asp (see there is also something on polynomial regression that is useful)
 
 # Week 13 - Machine Learning Supervised Learning
+
+## In Class Assignment due Friday, December 17th, 2021 @ 8pm
+1. [Intro to Supervised Learning in Python](https://builtin.com/data-science/supervised-learning-python)
+2. Submit your group activity to Canvas using the git url! 
+
+## Homework due Wednesday, December 22, 2021 @ 5:30pm
+
+### Readings/Videos/DataCamp
+1. [Preprocessing for Machine Learning](https://learn.datacamp.com/courses/preprocessing-for-machine-learning-in-python) Complete 2-4
+2. [Supervised Learning in sklearn](https://learn.datacamp.com/courses/supervised-learning-with-scikit-learn) Complete 1-4
+
+### Notebook
+1. Create a markdown heading and explanation for each question in the supervised_learning.docx file under week 13.
+2. Put the code answer for each question under the markdown heading.
+3. Embed screenshots into your jupyter notebook showing you completed DataCamp's Preprocessing for Machine Learning in Python AND Supervised Learning with Scikit Learn
+4. Upload your completed notebook to github and submit the link to Canvas.
+
+### Optional Reading
+
 
 # Week 14 - Multiple Linear Regression and Logistic Regression
 
