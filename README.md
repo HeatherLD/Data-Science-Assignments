@@ -460,9 +460,71 @@ Read https://www.investopedia.com/terms/m/mlr.asp on multiple linear regression
 
 # Week 15 - Support Vector Machines, Oversampling, and Undersampling
 
+## In Class Assignment due Friday, January 7th, 2022 @ 8pm
+1. [Oversampling and Undersampling](https://machinelearningmastery.com/random-oversampling-and-undersampling-for-imbalanced-classification/)
+2. [SVM Sklearn Documentation](https://scikit-learn.org/stable/modules/svm.html)
+3. Submit your group activity to Canvas using the git url! 
+
+## Homework due Wednesday, January 12, 2022 @ 5:30pm
+
+### Readings/Videos/DataCamp
+1. [Linear Classifiers in sklearn](https://app.datacamp.com/learn/courses/linear-classifiers-in-python) Please complete 1-3
+2. [Python Data Science Toolbox Part 2](https://app.datacamp.com/learn/courses/python-data-science-toolbox-part-2) - Please complete 2-3
+
+### Notebook
+1. You do not have a notebook to complete this week. Your ETL projects are due next week and should be submitted under week 15 on canvas.
+
+### Optional Reading
+No optional readings this week. Make sure you understand very well what an SVM is and the kinds of problems it can be used to solve!
+
 # Week 16 - Decision Trees and ETL Code Reviews
 
+## In Class Assignment due Friday, January 14th, 2022 @ 8pm
+1. [Decision Trees with python](https://datascience.foundation/sciencewhitepaper/understanding-decision-trees-with-python)  
+2. Submit your group activity to Canvas using the git url! 
+
+## Homework due Wednesday, January 19, 2022 @ 5:30pm
+
+### Readings/Videos/DataCamp
+1. [Linear Classifiers in sklearn](https://app.datacamp.com/learn/courses/linear-classifiers-in-python) Please complete 4
+2. [Machine Learning with Tree-Based Models](https://app.datacamp.com/learn/courses/machine-learning-with-tree-based-models-in-python) Please complete 1-3
+
+### Notebook
+1. Create a markdown heading and explanation for each question in the svm_over_under_sampling_hw.docx file under week 16.
+2. Put the code answer for each question under the markdown heading.
+3. Embed screenshots into your jupyter notebook showing you completed DataCamp's Linear Classifiers in Python AND Python Data Science Toolkit Part 2 (from last week)
+4. Upload your completed notebook to github and submit the link to Canvas.
+
+### Optional Reading
+[Gentle Introduction to Information Theory](https://machinelearningmastery.com/what-is-information-entropy/)
+
+[Information Theory](https://web.mit.edu/6.933/www/Fall2001/Shannon2.pdf) 
+
+[Decision Tree Classification in Python](https://www.datacamp.com/community/tutorials/decision-tree-classification-python)
+
+[Decision Trees for Decision Making](https://hbr.org/1964/07/decision-trees-for-decision-making)
+
 # Week 17 - Ensemble Learning and Random Forest
+
+## In Class Assignment due Friday, January 21st, 2022 @ 8pm
+1. [ROC Curve](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc) 
+2. Submit your group activity to Canvas using the git url! 
+
+## Homework due Wednesday, January 26, 2021 @ 5:30pm
+
+### Readings/Videos/DataCamp
+1. [Machine Learning with Tree-Based Models](https://learn.datacamp.com/courses/machine-learning-with-tree-based-models-in-python) Please complete 4-5
+2. [Parallel Random Forest Paper](https://arxiv.org/pdf/1810.07748.pdf) - You do not need to understand 100% of this, but its important you know what the industry is doing
+3. [Intro to XGBoost](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/) 
+4. [Intro to Deep Learning](https://learn.datacamp.com/courses/introduction-to-deep-learning-in-python) please complete 1-2
+
+### Notebook
+1. Create a markdown heading and explanation for each question in the tree_based_models_hw.docx file under week 17.
+2. Put the code answer for each question under the markdown heading.
+3. Embed screenshots into your jupyter notebook showing you completed DataCamp's Machine Learning with Tree-Based Models in Python
+4. Upload your completed notebook to github and submit the link to Canvas.
+
+### You should start working on your final project now. At this point, you know enough to start 
 
 # Week 18 - Intro to Neural Networks
 
